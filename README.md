@@ -10,7 +10,7 @@ cd diabetic-screening-app
 ```
 3. Install dependencies via npm or yarn
 ```shell
-yarn
+npm install
 ```
 
 ## Quick start
